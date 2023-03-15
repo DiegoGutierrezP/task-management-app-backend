@@ -2,6 +2,9 @@
 This is the bakcend project oh the Task Management App.
 
 ### Intructions to run the project
+
+<p>Please the project requires php >= 8.1</p>
+
 1. run de server wamp or xampp
 2. clone the repository
 3.  exec <code>composer install</code>
