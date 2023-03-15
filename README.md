@@ -8,5 +8,5 @@ This is the bakcend project oh the Task Management App.
 4.  exec <code>npm install</code>
 5. <b> create .env file:</b> copy .env.example and rename as .env
 6. <b>Genere APP_KEY:</b>  exec <code>php artisan key:generate</code> 
-7. exec <code>php artisan migarte --seed</code>
+7. exec <code>php artisan migrate --seed</code>
 8. php artisan serve
